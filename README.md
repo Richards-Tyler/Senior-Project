@@ -17,7 +17,7 @@ Instructions for e-mailing the spreadsheet after data is collected.
 
 1.	Before data is collected, Click on the settings tab in the upper right hand corner of the application.
 2.	Enter the trip code. Suggestion would be to enter the date. (Default is 0000)
-3.	Have potential fill out forms.
+3.	Have potential student(s) fill out the forms.
 4.	Once the information is collected, click on the settings tab in the upper right hand corner of the application.
 5.	Click on Export
 a.	This will pop up a window to e-mail the spreadsheet
