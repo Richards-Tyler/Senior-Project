@@ -10,7 +10,7 @@ a.	This is the actual application.
 5.	Plug in the iPad
 6.	Select the device on the deployment list
 7.	Click on the plus sign
-8.	On the iPad, go to Settings General Device Management  Click on the Developer App Click Trust and then Trust
+8.	On the iPad, go to Settings -> General -> Device Management -> Click on the Developer App -> Click Trust and then Trust
 9.	The application is installed on the Ipad.
 
 Instructions for e-mailing the spreadsheet after data is collected.
