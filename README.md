@@ -15,11 +15,13 @@ a.	This is the actual application.
 
 Instructions for e-mailing the spreadsheet after data is collected.
 
-1.	Click on the settings tab in the upper right hand corner of the application.
+1.	1.	Before data is collected, Click on the settings tab in the upper right hand corner of the application.
 2.	Enter the trip code. Suggestion would be to enter the date. (Default is 0000)
-3.	Click on Export
+3.	Have potential fill out forms.
+4.	Once the information is collected, click on the settings tab in the upper right hand corner of the application.
+5.	Click on Export
 a.	This will pop up a window to e-mail the spreadsheet
-b.	If you are not connected to the internet, save the e-mail as a draft.
-c.	If you are connected to the internet, enter your e-mail to send the CSV file.
-4.	Once the file is sent or saved, click on “Clear Spreadsheet” and this will erase any existing data on the spreadsheet.
-a.	Please note it is not recoverable once erased.
+b.	If you are connected to the internet, enter your e-mail to send the CSV file.
+6.	Once the file is sent, click on “Clear Spreadsheet” and this will erase any existing data on the spreadsheet. 
+a.	If not, this might delay the spreadsheet from loading into an e-mail file.
+b.	***Please note it is not recoverable once erased.
